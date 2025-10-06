@@ -2,6 +2,9 @@
 
 # 🏗️ Go E-commerce Application — Monolith to Microservices Migration
 
+![Monolith to Microservices](https://github.com/user-attachments/assets/9654dcd8-508a-4233-8e52-693645f64170)
+
+
 This project is an end-to-end implementation of an **E-commerce platform** in **Go (Golang)** that starts as a **Monolithic application** and is later **migrated to a Microservices architecture**.  
 The goal of this project is to gain a deep understanding of how to design, build, and refactor Go applications for scalability and distributed environments.
 
@@ -16,16 +19,6 @@ Initially, the project is built as a **Monolith**, and then refactored into **Mi
 - Product Service
 - Payment Service
 - Notification Service
-
----
-
-## 🧩 Image
-
-![Monolith to Microservices](https://github.com/user-attachments/assets/9654dcd8-508a-4233-8e52-693645f64170)
-
-
-
----
 
 ## 🧱 1. Functional Requirements
 
