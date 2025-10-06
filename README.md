@@ -21,8 +21,8 @@ Initially, the project is built as a **Monolith**, and then refactored into **Mi
 
 ## 🧩 Image
 
+![Monolith to Microservices](https://github.com/user-attachments/assets/9654dcd8-508a-4233-8e52-693645f64170)
 
-🔗 [Migrate from Monolith to Microservices Architecture](https://itechindia.co/blog/migrate-from-monolith-to-microservices-architecture/)
 
 
 ---
